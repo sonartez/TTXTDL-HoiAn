@@ -1,0 +1,84 @@
+D:\Dev\MVCAPI\Sonartez.Services\Sonartez.App\bin\Debug\SonartezClient.sdf
+D:\Dev\MVCAPI\Sonartez.Services\Sonartez.App\bin\Debug\Sonartez.App.exe.config
+D:\Dev\MVCAPI\Sonartez.Services\Sonartez.App\bin\Debug\Sonartez.App.exe
+D:\Dev\MVCAPI\Sonartez.Services\Sonartez.App\bin\Debug\Sonartez.App.pdb
+D:\Dev\MVCAPI\Sonartez.Services\Sonartez.App\bin\Debug\Sonartez.Entities.dll
+D:\Dev\MVCAPI\Sonartez.Services\Sonartez.App\bin\Debug\Sonartez.Entities.pdb
+D:\Dev\MVCAPI\Sonartez.Services\Sonartez.App\obj\Debug\Sonartez.App.csprojResolveAssemblyReference.cache
+D:\Dev\MVCAPI\Sonartez.Services\Sonartez.App\obj\Debug\Sonartez.Hepldesk.FrmMain.resources
+D:\Dev\MVCAPI\Sonartez.Services\Sonartez.App\obj\Debug\Sonartez.Hepldesk.Properties.Resources.resources
+D:\Dev\MVCAPI\Sonartez.Services\Sonartez.App\obj\Debug\Sonartez.App.csproj.GenerateResource.Cache
+D:\Dev\MVCAPI\Sonartez.Services\Sonartez.App\obj\Debug\Sonartez.App.exe
+D:\Dev\MVCAPI\Sonartez.Services\Sonartez.App\obj\Debug\Sonartez.App.pdb
+D:\devs\ttxtdl\Sonartez.Services\Sonartez.App\bin\Debug\SonartezClient.sdf
+D:\devs\ttxtdl\Sonartez.Services\Sonartez.App\bin\Debug\Sonartez.App.exe.config
+D:\devs\ttxtdl\Sonartez.Services\Sonartez.App\bin\Debug\Sonartez.App.exe
+D:\devs\ttxtdl\Sonartez.Services\Sonartez.App\bin\Debug\Sonartez.App.pdb
+D:\devs\ttxtdl\Sonartez.Services\Sonartez.App\bin\Debug\Sonartez.Entities.dll
+D:\devs\ttxtdl\Sonartez.Services\Sonartez.App\bin\Debug\Sonartez.Entities.pdb
+D:\devs\ttxtdl\Sonartez.Services\Sonartez.App\obj\Debug\Sonartez.App.csprojResolveAssemblyReference.cache
+D:\devs\ttxtdl\Sonartez.Services\Sonartez.App\obj\Debug\Sonartez.Hepldesk.FrmMain.resources
+D:\devs\ttxtdl\Sonartez.Services\Sonartez.App\obj\Debug\Sonartez.Hepldesk.Properties.Resources.resources
+D:\devs\ttxtdl\Sonartez.Services\Sonartez.App\obj\Debug\Sonartez.App.csproj.GenerateResource.Cache
+D:\devs\ttxtdl\Sonartez.Services\Sonartez.App\obj\Debug\Sonartez.App.exe
+D:\devs\ttxtdl\Sonartez.Services\Sonartez.App\obj\Debug\Sonartez.App.pdb
+C:\Users\Linh\Desktop\TTXTDL\Apps\Sonartez.Services.v11\Sonartez.App\bin\Debug\SonartezClient.sdf
+C:\Users\Linh\Desktop\TTXTDL\Apps\Sonartez.Services.v11\Sonartez.App\bin\Debug\Sonartez.App.exe.config
+C:\Users\Linh\Desktop\TTXTDL\Apps\Sonartez.Services.v11\Sonartez.App\bin\Debug\Sonartez.App.exe
+C:\Users\Linh\Desktop\TTXTDL\Apps\Sonartez.Services.v11\Sonartez.App\bin\Debug\Sonartez.App.pdb
+C:\Users\Linh\Desktop\TTXTDL\Apps\Sonartez.Services.v11\Sonartez.App\bin\Debug\Sonartez.Entities.dll
+C:\Users\Linh\Desktop\TTXTDL\Apps\Sonartez.Services.v11\Sonartez.App\bin\Debug\Sonartez.Entities.pdb
+C:\Users\Linh\Desktop\TTXTDL\Apps\Sonartez.Services.v11\Sonartez.App\obj\Debug\Sonartez.App.csprojResolveAssemblyReference.cache
+C:\Users\Linh\Desktop\TTXTDL\Apps\Sonartez.Services.v11\Sonartez.App\obj\Debug\Sonartez.Hepldesk.FrmMain.resources
+C:\Users\Linh\Desktop\TTXTDL\Apps\Sonartez.Services.v11\Sonartez.App\obj\Debug\Sonartez.Hepldesk.Properties.Resources.resources
+C:\Users\Linh\Desktop\TTXTDL\Apps\Sonartez.Services.v11\Sonartez.App\obj\Debug\Sonartez.App.csproj.GenerateResource.Cache
+C:\Users\Linh\Desktop\TTXTDL\Apps\Sonartez.Services.v11\Sonartez.App\obj\Debug\Sonartez.App.exe
+C:\Users\Linh\Desktop\TTXTDL\Apps\Sonartez.Services.v11\Sonartez.App\obj\Debug\Sonartez.App.pdb
+D:\Dev\Apps\20141112\Sonartez.Services.v11\Sonartez.App\bin\Debug\SonartezClient.sdf
+D:\Dev\Apps\20141112\Sonartez.Services.v11\Sonartez.App\bin\Debug\Sonartez.App.exe.config
+D:\Dev\Apps\20141112\Sonartez.Services.v11\Sonartez.App\bin\Debug\Sonartez.App.exe
+D:\Dev\Apps\20141112\Sonartez.Services.v11\Sonartez.App\bin\Debug\Sonartez.App.pdb
+D:\Dev\Apps\20141112\Sonartez.Services.v11\Sonartez.App\bin\Debug\Sonartez.Entities.dll
+D:\Dev\Apps\20141112\Sonartez.Services.v11\Sonartez.App\bin\Debug\Sonartez.Entities.pdb
+D:\Dev\Apps\20141112\Sonartez.Services.v11\Sonartez.App\obj\Debug\Sonartez.App.csprojResolveAssemblyReference.cache
+D:\Dev\Apps\20141112\Sonartez.Services.v11\Sonartez.App\obj\Debug\Sonartez.Hepldesk.FrmMain.resources
+D:\Dev\Apps\20141112\Sonartez.Services.v11\Sonartez.App\obj\Debug\Sonartez.Hepldesk.Properties.Resources.resources
+D:\Dev\Apps\20141112\Sonartez.Services.v11\Sonartez.App\obj\Debug\Sonartez.App.csproj.GenerateResource.Cache
+D:\Dev\Apps\20141112\Sonartez.Services.v11\Sonartez.App\obj\Debug\Sonartez.App.exe
+D:\Dev\Apps\20141112\Sonartez.Services.v11\Sonartez.App\obj\Debug\Sonartez.App.pdb
+D:\Apps\TTXTDL\1112\Sonartez.App\bin\Debug\SonartezClient.sdf
+D:\Apps\TTXTDL\1112\Sonartez.App\bin\Debug\Sonartez.App.exe.config
+D:\Apps\TTXTDL\1112\Sonartez.App\bin\Debug\Sonartez.App.exe
+D:\Apps\TTXTDL\1112\Sonartez.App\bin\Debug\Sonartez.App.pdb
+D:\Apps\TTXTDL\1112\Sonartez.App\bin\Debug\Sonartez.Entities.dll
+D:\Apps\TTXTDL\1112\Sonartez.App\bin\Debug\Sonartez.Entities.pdb
+D:\Apps\TTXTDL\1112\Sonartez.App\obj\Debug\Sonartez.App.csprojResolveAssemblyReference.cache
+D:\Apps\TTXTDL\1112\Sonartez.App\obj\Debug\Sonartez.Hepldesk.FrmMain.resources
+D:\Apps\TTXTDL\1112\Sonartez.App\obj\Debug\Sonartez.Hepldesk.Properties.Resources.resources
+D:\Apps\TTXTDL\1112\Sonartez.App\obj\Debug\Sonartez.App.csproj.GenerateResource.Cache
+D:\Apps\TTXTDL\1112\Sonartez.App\obj\Debug\Sonartez.App.exe
+D:\Apps\TTXTDL\1112\Sonartez.App\obj\Debug\Sonartez.App.pdb
+D:\Dev\Apps\TTXTDL\DNNEW\Sonartez.App\bin\Debug\SonartezClient.sdf
+D:\Dev\Apps\TTXTDL\DNNEW\Sonartez.App\bin\Debug\Sonartez.App.exe.config
+D:\Dev\Apps\TTXTDL\DNNEW\Sonartez.App\bin\Debug\Sonartez.App.exe
+D:\Dev\Apps\TTXTDL\DNNEW\Sonartez.App\bin\Debug\Sonartez.App.pdb
+D:\Dev\Apps\TTXTDL\DNNEW\Sonartez.App\bin\Debug\Sonartez.Entities.dll
+D:\Dev\Apps\TTXTDL\DNNEW\Sonartez.App\bin\Debug\Sonartez.Entities.pdb
+D:\Dev\Apps\TTXTDL\DNNEW\Sonartez.App\obj\Debug\Sonartez.App.csprojResolveAssemblyReference.cache
+D:\Dev\Apps\TTXTDL\DNNEW\Sonartez.App\obj\Debug\Sonartez.Hepldesk.FrmMain.resources
+D:\Dev\Apps\TTXTDL\DNNEW\Sonartez.App\obj\Debug\Sonartez.Hepldesk.Properties.Resources.resources
+D:\Dev\Apps\TTXTDL\DNNEW\Sonartez.App\obj\Debug\Sonartez.App.csproj.GenerateResource.Cache
+D:\Dev\Apps\TTXTDL\DNNEW\Sonartez.App\obj\Debug\Sonartez.App.exe
+D:\Dev\Apps\TTXTDL\DNNEW\Sonartez.App\obj\Debug\Sonartez.App.pdb
+D:\Apps\Hội An\DNNEW\Sonartez.App\bin\Debug\SonartezClient.sdf
+D:\Apps\Hội An\DNNEW\Sonartez.App\bin\Debug\Sonartez.App.exe.config
+D:\Apps\Hội An\DNNEW\Sonartez.App\bin\Debug\Sonartez.App.exe
+D:\Apps\Hội An\DNNEW\Sonartez.App\bin\Debug\Sonartez.App.pdb
+D:\Apps\Hội An\DNNEW\Sonartez.App\bin\Debug\Sonartez.Entities.dll
+D:\Apps\Hội An\DNNEW\Sonartez.App\bin\Debug\Sonartez.Entities.pdb
+D:\Apps\Hội An\DNNEW\Sonartez.App\obj\Debug\Sonartez.App.csprojResolveAssemblyReference.cache
+D:\Apps\Hội An\DNNEW\Sonartez.App\obj\Debug\Sonartez.Hepldesk.FrmMain.resources
+D:\Apps\Hội An\DNNEW\Sonartez.App\obj\Debug\Sonartez.Hepldesk.Properties.Resources.resources
+D:\Apps\Hội An\DNNEW\Sonartez.App\obj\Debug\Sonartez.App.csproj.GenerateResource.Cache
+D:\Apps\Hội An\DNNEW\Sonartez.App\obj\Debug\Sonartez.App.exe
+D:\Apps\Hội An\DNNEW\Sonartez.App\obj\Debug\Sonartez.App.pdb

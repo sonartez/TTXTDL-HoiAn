@@ -1,0 +1,5 @@
+D:\Dev\MVCAPI\Sonartez.Services\Sonartez.DXClient\obj\Debug\Sonartez.DXClient.csprojResolveAssemblyReference.cache
+D:\Dev\MVCAPI\Sonartez.Services\Sonartez.DXClient\obj\Debug\Sonartez.DXClient.Form1.resources
+D:\Dev\MVCAPI\Sonartez.Services\Sonartez.DXClient\obj\Debug\Sonartez.DXClient.Properties.Resources.resources
+D:\Dev\MVCAPI\Sonartez.Services\Sonartez.DXClient\obj\Debug\Sonartez.DXClient.csproj.GenerateResource.Cache
+D:\Dev\MVCAPI\Sonartez.Services\Sonartez.DXClient\obj\Debug\Sonartez.DXClient.exe.licenses

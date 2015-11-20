@@ -1,0 +1,9 @@
+D:\Apps\Hội An\DNNEW\HA.HelpDesk\bin\Debug\HA.HelpDesk.exe
+D:\Apps\Hội An\DNNEW\HA.HelpDesk\bin\Debug\HA.HelpDesk.pdb
+D:\Apps\Hội An\DNNEW\HA.HelpDesk\obj\Debug\HA.HelpDesk.csprojResolveAssemblyReference.cache
+D:\Apps\Hội An\DNNEW\HA.HelpDesk\obj\Debug\HA.HelpDesk.Form1.resources
+D:\Apps\Hội An\DNNEW\HA.HelpDesk\obj\Debug\HA.HelpDesk.Properties.Resources.resources
+D:\Apps\Hội An\DNNEW\HA.HelpDesk\obj\Debug\HA.HelpDesk.csproj.GenerateResource.Cache
+D:\Apps\Hội An\DNNEW\HA.HelpDesk\obj\Debug\HA.HelpDesk.exe.licenses
+D:\Apps\Hội An\DNNEW\HA.HelpDesk\obj\Debug\HA.HelpDesk.exe
+D:\Apps\Hội An\DNNEW\HA.HelpDesk\obj\Debug\HA.HelpDesk.pdb

@@ -1,0 +1,93 @@
+D:\Dev\Apps\TTXTDL\DNNEW\ImportData\bin\Release\SonartezClient.sdf
+D:\Dev\Apps\TTXTDL\DNNEW\ImportData\bin\Release\ImportData.exe.config
+D:\Dev\Apps\TTXTDL\DNNEW\ImportData\bin\Release\ImportData.exe
+D:\Dev\Apps\TTXTDL\DNNEW\ImportData\bin\Release\ImportData.pdb
+D:\Dev\Apps\TTXTDL\DNNEW\ImportData\bin\Release\LinqToExcel.dll
+D:\Dev\Apps\TTXTDL\DNNEW\ImportData\bin\Release\log4net.dll
+D:\Dev\Apps\TTXTDL\DNNEW\ImportData\bin\Release\Remotion.Data.Linq.dll
+D:\Dev\Apps\TTXTDL\DNNEW\ImportData\bin\Release\Remotion.dll
+D:\Dev\Apps\TTXTDL\DNNEW\ImportData\bin\Release\Remotion.Interfaces.dll
+D:\Dev\Apps\TTXTDL\DNNEW\ImportData\bin\Release\Sonartez.Entities.dll
+D:\Dev\Apps\TTXTDL\DNNEW\ImportData\bin\Release\System.Net.Http.Extensions.dll
+D:\Dev\Apps\TTXTDL\DNNEW\ImportData\bin\Release\System.Net.Http.Primitives.dll
+D:\Dev\Apps\TTXTDL\DNNEW\ImportData\bin\Release\TTXTDL Da Nang Helpdesk.exe
+D:\Dev\Apps\TTXTDL\DNNEW\ImportData\bin\Release\MetroFramework.dll
+D:\Dev\Apps\TTXTDL\DNNEW\ImportData\bin\Release\System.Net.Http.Formatting.dll
+D:\Dev\Apps\TTXTDL\DNNEW\ImportData\bin\Release\Newtonsoft.Json.dll
+D:\Dev\Apps\TTXTDL\DNNEW\ImportData\bin\Release\Sonartez.Entities.pdb
+D:\Dev\Apps\TTXTDL\DNNEW\ImportData\bin\Release\TTXTDL Da Nang Helpdesk.pdb
+D:\Dev\Apps\TTXTDL\DNNEW\ImportData\bin\Release\LinqToExcel.xml
+D:\Dev\Apps\TTXTDL\DNNEW\ImportData\bin\Release\log4net.xml
+D:\Dev\Apps\TTXTDL\DNNEW\ImportData\bin\Release\System.Net.Http.Extensions.xml
+D:\Dev\Apps\TTXTDL\DNNEW\ImportData\bin\Release\System.Net.Http.Primitives.xml
+D:\Dev\Apps\TTXTDL\DNNEW\ImportData\bin\Release\System.Net.Http.Formatting.xml
+D:\Dev\Apps\TTXTDL\DNNEW\ImportData\bin\Release\Newtonsoft.Json.xml
+D:\Dev\Apps\TTXTDL\DNNEW\ImportData\obj\Release\ImportData.csproj.App.config
+D:\Dev\Apps\TTXTDL\DNNEW\ImportData\obj\Release\ImportData.csprojResolveAssemblyReference.cache
+D:\Dev\Apps\TTXTDL\DNNEW\ImportData\obj\Release\ImportData.Form1.resources
+D:\Dev\Apps\TTXTDL\DNNEW\ImportData\obj\Release\ImportData.Properties.Resources.resources
+D:\Dev\Apps\TTXTDL\DNNEW\ImportData\obj\Release\ImportData.csproj.GenerateResource.Cache
+D:\Dev\Apps\TTXTDL\DNNEW\ImportData\obj\Release\ImportData.exe
+D:\Dev\Apps\TTXTDL\DNNEW\ImportData\obj\Release\ImportData.pdb
+D:\Dev\Apps\TTXTDL\Hội An\DNNEW\ImportData\bin\Release\SonartezClient.sdf
+D:\Dev\Apps\TTXTDL\Hội An\DNNEW\ImportData\bin\Release\ImportData.exe.config
+D:\Dev\Apps\TTXTDL\Hội An\DNNEW\ImportData\bin\Release\ImportData.exe
+D:\Dev\Apps\TTXTDL\Hội An\DNNEW\ImportData\bin\Release\ImportData.pdb
+D:\Dev\Apps\TTXTDL\Hội An\DNNEW\ImportData\bin\Release\LinqToExcel.dll
+D:\Dev\Apps\TTXTDL\Hội An\DNNEW\ImportData\bin\Release\log4net.dll
+D:\Dev\Apps\TTXTDL\Hội An\DNNEW\ImportData\bin\Release\Remotion.Data.Linq.dll
+D:\Dev\Apps\TTXTDL\Hội An\DNNEW\ImportData\bin\Release\Remotion.dll
+D:\Dev\Apps\TTXTDL\Hội An\DNNEW\ImportData\bin\Release\Remotion.Interfaces.dll
+D:\Dev\Apps\TTXTDL\Hội An\DNNEW\ImportData\bin\Release\Sonartez.Entities.dll
+D:\Dev\Apps\TTXTDL\Hội An\DNNEW\ImportData\bin\Release\System.Net.Http.Extensions.dll
+D:\Dev\Apps\TTXTDL\Hội An\DNNEW\ImportData\bin\Release\System.Net.Http.Primitives.dll
+D:\Dev\Apps\TTXTDL\Hội An\DNNEW\ImportData\bin\Release\TTXTDL Da Nang Helpdesk.exe
+D:\Dev\Apps\TTXTDL\Hội An\DNNEW\ImportData\bin\Release\MetroFramework.dll
+D:\Dev\Apps\TTXTDL\Hội An\DNNEW\ImportData\bin\Release\System.Net.Http.Formatting.dll
+D:\Dev\Apps\TTXTDL\Hội An\DNNEW\ImportData\bin\Release\Newtonsoft.Json.dll
+D:\Dev\Apps\TTXTDL\Hội An\DNNEW\ImportData\bin\Release\Sonartez.Entities.pdb
+D:\Dev\Apps\TTXTDL\Hội An\DNNEW\ImportData\bin\Release\TTXTDL Da Nang Helpdesk.pdb
+D:\Dev\Apps\TTXTDL\Hội An\DNNEW\ImportData\bin\Release\LinqToExcel.xml
+D:\Dev\Apps\TTXTDL\Hội An\DNNEW\ImportData\bin\Release\log4net.xml
+D:\Dev\Apps\TTXTDL\Hội An\DNNEW\ImportData\bin\Release\System.Net.Http.Extensions.xml
+D:\Dev\Apps\TTXTDL\Hội An\DNNEW\ImportData\bin\Release\System.Net.Http.Primitives.xml
+D:\Dev\Apps\TTXTDL\Hội An\DNNEW\ImportData\bin\Release\System.Net.Http.Formatting.xml
+D:\Dev\Apps\TTXTDL\Hội An\DNNEW\ImportData\bin\Release\Newtonsoft.Json.xml
+D:\Dev\Apps\TTXTDL\Hội An\DNNEW\ImportData\obj\Release\ImportData.csproj.App.config
+D:\Dev\Apps\TTXTDL\Hội An\DNNEW\ImportData\obj\Release\ImportData.csprojResolveAssemblyReference.cache
+D:\Dev\Apps\TTXTDL\Hội An\DNNEW\ImportData\obj\Release\ImportData.Form1.resources
+D:\Dev\Apps\TTXTDL\Hội An\DNNEW\ImportData\obj\Release\ImportData.Properties.Resources.resources
+D:\Dev\Apps\TTXTDL\Hội An\DNNEW\ImportData\obj\Release\ImportData.csproj.GenerateResource.Cache
+D:\Dev\Apps\TTXTDL\Hội An\DNNEW\ImportData\obj\Release\ImportData.exe
+D:\Dev\Apps\TTXTDL\Hội An\DNNEW\ImportData\obj\Release\ImportData.pdb
+D:\Apps\Hội An\DNNEW\ImportData\bin\Release\SonartezClient.sdf
+D:\Apps\Hội An\DNNEW\ImportData\bin\Release\ImportData.exe.config
+D:\Apps\Hội An\DNNEW\ImportData\bin\Release\ImportData.exe
+D:\Apps\Hội An\DNNEW\ImportData\bin\Release\ImportData.pdb
+D:\Apps\Hội An\DNNEW\ImportData\bin\Release\LinqToExcel.dll
+D:\Apps\Hội An\DNNEW\ImportData\bin\Release\log4net.dll
+D:\Apps\Hội An\DNNEW\ImportData\bin\Release\Remotion.Data.Linq.dll
+D:\Apps\Hội An\DNNEW\ImportData\bin\Release\Remotion.dll
+D:\Apps\Hội An\DNNEW\ImportData\bin\Release\Remotion.Interfaces.dll
+D:\Apps\Hội An\DNNEW\ImportData\bin\Release\Sonartez.Entities.dll
+D:\Apps\Hội An\DNNEW\ImportData\bin\Release\System.Net.Http.Extensions.dll
+D:\Apps\Hội An\DNNEW\ImportData\bin\Release\System.Net.Http.Primitives.dll
+D:\Apps\Hội An\DNNEW\ImportData\bin\Release\TTXTDL Quang Nam Helpdesk.exe
+D:\Apps\Hội An\DNNEW\ImportData\bin\Release\MetroFramework.dll
+D:\Apps\Hội An\DNNEW\ImportData\bin\Release\System.Net.Http.Formatting.dll
+D:\Apps\Hội An\DNNEW\ImportData\bin\Release\Newtonsoft.Json.dll
+D:\Apps\Hội An\DNNEW\ImportData\bin\Release\Sonartez.Entities.pdb
+D:\Apps\Hội An\DNNEW\ImportData\bin\Release\TTXTDL Quang Nam Helpdesk.pdb
+D:\Apps\Hội An\DNNEW\ImportData\bin\Release\LinqToExcel.xml
+D:\Apps\Hội An\DNNEW\ImportData\bin\Release\log4net.xml
+D:\Apps\Hội An\DNNEW\ImportData\bin\Release\System.Net.Http.Extensions.xml
+D:\Apps\Hội An\DNNEW\ImportData\bin\Release\System.Net.Http.Primitives.xml
+D:\Apps\Hội An\DNNEW\ImportData\bin\Release\System.Net.Http.Formatting.xml
+D:\Apps\Hội An\DNNEW\ImportData\bin\Release\Newtonsoft.Json.xml
+D:\Apps\Hội An\DNNEW\ImportData\obj\Release\ImportData.csproj.App.config
+D:\Apps\Hội An\DNNEW\ImportData\obj\Release\ImportData.csprojResolveAssemblyReference.cache
+D:\Apps\Hội An\DNNEW\ImportData\obj\Release\ImportData.Form1.resources
+D:\Apps\Hội An\DNNEW\ImportData\obj\Release\ImportData.Properties.Resources.resources
+D:\Apps\Hội An\DNNEW\ImportData\obj\Release\ImportData.csproj.GenerateResource.Cache
+D:\Apps\Hội An\DNNEW\ImportData\obj\Release\ImportData.exe
+D:\Apps\Hội An\DNNEW\ImportData\obj\Release\ImportData.pdb

@@ -1,0 +1,21 @@
+D:\devs\ttxtdl\Sonartez.Services\Sonartez.Entities\bin\Release\Sonartez.Entities.dll
+D:\devs\ttxtdl\Sonartez.Services\Sonartez.Entities\bin\Release\Sonartez.Entities.pdb
+D:\devs\ttxtdl\Sonartez.Services\Sonartez.Entities\obj\Release\Sonartez.Entities.dll
+D:\devs\ttxtdl\Sonartez.Services\Sonartez.Entities\obj\Release\Sonartez.Entities.pdb
+D:\Apps\TTXTDL\1112\Sonartez.Entities\bin\Release\Sonartez.Entities.dll
+D:\Apps\TTXTDL\1112\Sonartez.Entities\bin\Release\Sonartez.Entities.pdb
+D:\Apps\TTXTDL\1112\Sonartez.Entities\obj\Release\Sonartez.Entities.dll
+D:\Apps\TTXTDL\1112\Sonartez.Entities\obj\Release\Sonartez.Entities.pdb
+D:\Dev\Apps\TTXTDL\DNNEW\Sonartez.Entities\bin\Release\Sonartez.Entities.dll
+D:\Dev\Apps\TTXTDL\DNNEW\Sonartez.Entities\bin\Release\Sonartez.Entities.pdb
+D:\Dev\Apps\TTXTDL\DNNEW\Sonartez.Entities\obj\Release\Sonartez.Entities.dll
+D:\Dev\Apps\TTXTDL\DNNEW\Sonartez.Entities\obj\Release\Sonartez.Entities.pdb
+C:\Users\Linh\Dropbox\Hội An\Hội An\DNNEW\Sonartez.Entities\bin\Release\Sonartez.Entities.dll
+C:\Users\Linh\Dropbox\Hội An\Hội An\DNNEW\Sonartez.Entities\bin\Release\Sonartez.Entities.pdb
+C:\Users\Linh\Dropbox\Hội An\Hội An\DNNEW\Sonartez.Entities\obj\Release\Sonartez.Entities.csprojResolveAssemblyReference.cache
+C:\Users\Linh\Dropbox\Hội An\Hội An\DNNEW\Sonartez.Entities\obj\Release\Sonartez.Entities.dll
+C:\Users\Linh\Dropbox\Hội An\Hội An\DNNEW\Sonartez.Entities\obj\Release\Sonartez.Entities.pdb
+D:\Apps\Hội An\DNNEW\Sonartez.Entities\bin\Release\Sonartez.Entities.dll
+D:\Apps\Hội An\DNNEW\Sonartez.Entities\bin\Release\Sonartez.Entities.pdb
+D:\Apps\Hội An\DNNEW\Sonartez.Entities\obj\Release\Sonartez.Entities.dll
+D:\Apps\Hội An\DNNEW\Sonartez.Entities\obj\Release\Sonartez.Entities.pdb

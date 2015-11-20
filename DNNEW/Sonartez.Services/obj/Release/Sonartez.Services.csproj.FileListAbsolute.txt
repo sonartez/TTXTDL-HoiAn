@@ -1,0 +1,228 @@
+D:\Dev\Apps\TTXTDL\DNNEW\Sonartez.Services\bin\Sonartez.Services.dll
+D:\Dev\Apps\TTXTDL\DNNEW\Sonartez.Services\bin\Sonartez.Services.pdb
+D:\Dev\Apps\TTXTDL\DNNEW\Sonartez.Services\bin\Antlr3.Runtime.dll
+D:\Dev\Apps\TTXTDL\DNNEW\Sonartez.Services\bin\EntityFramework.dll
+D:\Dev\Apps\TTXTDL\DNNEW\Sonartez.Services\bin\Microsoft.Data.Edm.dll
+D:\Dev\Apps\TTXTDL\DNNEW\Sonartez.Services\bin\Microsoft.Data.OData.dll
+D:\Dev\Apps\TTXTDL\DNNEW\Sonartez.Services\bin\Microsoft.Web.Infrastructure.dll
+D:\Dev\Apps\TTXTDL\DNNEW\Sonartez.Services\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\Dev\Apps\TTXTDL\DNNEW\Sonartez.Services\bin\Newtonsoft.Json.dll
+D:\Dev\Apps\TTXTDL\DNNEW\Sonartez.Services\bin\Sonartez.Entities.dll
+D:\Dev\Apps\TTXTDL\DNNEW\Sonartez.Services\bin\System.Net.Http.Extensions.dll
+D:\Dev\Apps\TTXTDL\DNNEW\Sonartez.Services\bin\System.Net.Http.Formatting.dll
+D:\Dev\Apps\TTXTDL\DNNEW\Sonartez.Services\bin\System.Net.Http.Primitives.dll
+D:\Dev\Apps\TTXTDL\DNNEW\Sonartez.Services\bin\System.Spatial.dll
+D:\Dev\Apps\TTXTDL\DNNEW\Sonartez.Services\bin\System.Web.Helpers.dll
+D:\Dev\Apps\TTXTDL\DNNEW\Sonartez.Services\bin\System.Web.Http.dll
+D:\Dev\Apps\TTXTDL\DNNEW\Sonartez.Services\bin\System.Web.Http.OData.dll
+D:\Dev\Apps\TTXTDL\DNNEW\Sonartez.Services\bin\System.Web.Http.Tracing.dll
+D:\Dev\Apps\TTXTDL\DNNEW\Sonartez.Services\bin\System.Web.Http.WebHost.dll
+D:\Dev\Apps\TTXTDL\DNNEW\Sonartez.Services\bin\System.Web.Mvc.dll
+D:\Dev\Apps\TTXTDL\DNNEW\Sonartez.Services\bin\System.Web.Optimization.dll
+D:\Dev\Apps\TTXTDL\DNNEW\Sonartez.Services\bin\System.Web.Providers.dll
+D:\Dev\Apps\TTXTDL\DNNEW\Sonartez.Services\bin\System.Web.Razor.dll
+D:\Dev\Apps\TTXTDL\DNNEW\Sonartez.Services\bin\System.Web.WebPages.Deployment.dll
+D:\Dev\Apps\TTXTDL\DNNEW\Sonartez.Services\bin\System.Web.WebPages.dll
+D:\Dev\Apps\TTXTDL\DNNEW\Sonartez.Services\bin\System.Web.WebPages.Razor.dll
+D:\Dev\Apps\TTXTDL\DNNEW\Sonartez.Services\bin\WebGrease.dll
+D:\Dev\Apps\TTXTDL\DNNEW\Sonartez.Services\bin\Sonartez.Entities.pdb
+D:\Dev\Apps\TTXTDL\DNNEW\Sonartez.Services\bin\Newtonsoft.Json.xml
+D:\Dev\Apps\TTXTDL\DNNEW\Sonartez.Services\bin\System.Net.Http.Extensions.xml
+D:\Dev\Apps\TTXTDL\DNNEW\Sonartez.Services\bin\System.Net.Http.Formatting.xml
+D:\Dev\Apps\TTXTDL\DNNEW\Sonartez.Services\bin\System.Net.Http.Primitives.xml
+D:\Dev\Apps\TTXTDL\DNNEW\Sonartez.Services\bin\System.Web.Http.xml
+D:\Dev\Apps\TTXTDL\DNNEW\Sonartez.Services\bin\System.Web.Http.OData.xml
+D:\Dev\Apps\TTXTDL\DNNEW\Sonartez.Services\bin\EntityFramework.xml
+D:\Dev\Apps\TTXTDL\DNNEW\Sonartez.Services\bin\System.Web.Helpers.xml
+D:\Dev\Apps\TTXTDL\DNNEW\Sonartez.Services\bin\System.Web.Http.WebHost.xml
+D:\Dev\Apps\TTXTDL\DNNEW\Sonartez.Services\bin\System.Web.Mvc.xml
+D:\Dev\Apps\TTXTDL\DNNEW\Sonartez.Services\bin\System.Web.Razor.xml
+D:\Dev\Apps\TTXTDL\DNNEW\Sonartez.Services\bin\System.Web.WebPages.xml
+D:\Dev\Apps\TTXTDL\DNNEW\Sonartez.Services\bin\System.Web.WebPages.Deployment.xml
+D:\Dev\Apps\TTXTDL\DNNEW\Sonartez.Services\bin\System.Web.WebPages.Razor.xml
+D:\Dev\Apps\TTXTDL\DNNEW\Sonartez.Services\bin\System.Web.Http.Tracing.xml
+D:\Dev\Apps\TTXTDL\DNNEW\Sonartez.Services\bin\Microsoft.Data.Edm.xml
+D:\Dev\Apps\TTXTDL\DNNEW\Sonartez.Services\bin\Microsoft.Data.OData.xml
+D:\Dev\Apps\TTXTDL\DNNEW\Sonartez.Services\bin\System.Spatial.xml
+D:\Dev\Apps\TTXTDL\DNNEW\Sonartez.Services\bin\de\Microsoft.Data.Edm.resources.dll
+D:\Dev\Apps\TTXTDL\DNNEW\Sonartez.Services\bin\es\Microsoft.Data.Edm.resources.dll
+D:\Dev\Apps\TTXTDL\DNNEW\Sonartez.Services\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\Dev\Apps\TTXTDL\DNNEW\Sonartez.Services\bin\it\Microsoft.Data.Edm.resources.dll
+D:\Dev\Apps\TTXTDL\DNNEW\Sonartez.Services\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\Dev\Apps\TTXTDL\DNNEW\Sonartez.Services\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\Dev\Apps\TTXTDL\DNNEW\Sonartez.Services\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\Dev\Apps\TTXTDL\DNNEW\Sonartez.Services\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\Dev\Apps\TTXTDL\DNNEW\Sonartez.Services\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\Dev\Apps\TTXTDL\DNNEW\Sonartez.Services\bin\de\Microsoft.Data.OData.resources.dll
+D:\Dev\Apps\TTXTDL\DNNEW\Sonartez.Services\bin\es\Microsoft.Data.OData.resources.dll
+D:\Dev\Apps\TTXTDL\DNNEW\Sonartez.Services\bin\fr\Microsoft.Data.OData.resources.dll
+D:\Dev\Apps\TTXTDL\DNNEW\Sonartez.Services\bin\it\Microsoft.Data.OData.resources.dll
+D:\Dev\Apps\TTXTDL\DNNEW\Sonartez.Services\bin\ja\Microsoft.Data.OData.resources.dll
+D:\Dev\Apps\TTXTDL\DNNEW\Sonartez.Services\bin\ko\Microsoft.Data.OData.resources.dll
+D:\Dev\Apps\TTXTDL\DNNEW\Sonartez.Services\bin\ru\Microsoft.Data.OData.resources.dll
+D:\Dev\Apps\TTXTDL\DNNEW\Sonartez.Services\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\Dev\Apps\TTXTDL\DNNEW\Sonartez.Services\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\Dev\Apps\TTXTDL\DNNEW\Sonartez.Services\bin\de\System.Spatial.resources.dll
+D:\Dev\Apps\TTXTDL\DNNEW\Sonartez.Services\bin\es\System.Spatial.resources.dll
+D:\Dev\Apps\TTXTDL\DNNEW\Sonartez.Services\bin\fr\System.Spatial.resources.dll
+D:\Dev\Apps\TTXTDL\DNNEW\Sonartez.Services\bin\it\System.Spatial.resources.dll
+D:\Dev\Apps\TTXTDL\DNNEW\Sonartez.Services\bin\ja\System.Spatial.resources.dll
+D:\Dev\Apps\TTXTDL\DNNEW\Sonartez.Services\bin\ko\System.Spatial.resources.dll
+D:\Dev\Apps\TTXTDL\DNNEW\Sonartez.Services\bin\ru\System.Spatial.resources.dll
+D:\Dev\Apps\TTXTDL\DNNEW\Sonartez.Services\bin\zh-Hans\System.Spatial.resources.dll
+D:\Dev\Apps\TTXTDL\DNNEW\Sonartez.Services\bin\zh-Hant\System.Spatial.resources.dll
+D:\Dev\Apps\TTXTDL\DNNEW\Sonartez.Services\obj\Release\Sonartez.Services.csprojResolveAssemblyReference.cache
+D:\Dev\Apps\TTXTDL\DNNEW\Sonartez.Services\obj\Release\Sonartez.Services.dll
+D:\Dev\Apps\TTXTDL\DNNEW\Sonartez.Services\obj\Release\Sonartez.Services.pdb
+D:\Dev\Apps\TTXTDL\Hội An\DNNEW\Sonartez.Services\bin\Sonartez.Services.dll
+D:\Dev\Apps\TTXTDL\Hội An\DNNEW\Sonartez.Services\bin\Sonartez.Services.pdb
+D:\Dev\Apps\TTXTDL\Hội An\DNNEW\Sonartez.Services\bin\Antlr3.Runtime.dll
+D:\Dev\Apps\TTXTDL\Hội An\DNNEW\Sonartez.Services\bin\EntityFramework.dll
+D:\Dev\Apps\TTXTDL\Hội An\DNNEW\Sonartez.Services\bin\Microsoft.Data.Edm.dll
+D:\Dev\Apps\TTXTDL\Hội An\DNNEW\Sonartez.Services\bin\Microsoft.Data.OData.dll
+D:\Dev\Apps\TTXTDL\Hội An\DNNEW\Sonartez.Services\bin\Microsoft.Web.Infrastructure.dll
+D:\Dev\Apps\TTXTDL\Hội An\DNNEW\Sonartez.Services\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\Dev\Apps\TTXTDL\Hội An\DNNEW\Sonartez.Services\bin\Newtonsoft.Json.dll
+D:\Dev\Apps\TTXTDL\Hội An\DNNEW\Sonartez.Services\bin\Sonartez.Entities.dll
+D:\Dev\Apps\TTXTDL\Hội An\DNNEW\Sonartez.Services\bin\System.Net.Http.Extensions.dll
+D:\Dev\Apps\TTXTDL\Hội An\DNNEW\Sonartez.Services\bin\System.Net.Http.Formatting.dll
+D:\Dev\Apps\TTXTDL\Hội An\DNNEW\Sonartez.Services\bin\System.Net.Http.Primitives.dll
+D:\Dev\Apps\TTXTDL\Hội An\DNNEW\Sonartez.Services\bin\System.Spatial.dll
+D:\Dev\Apps\TTXTDL\Hội An\DNNEW\Sonartez.Services\bin\System.Web.Helpers.dll
+D:\Dev\Apps\TTXTDL\Hội An\DNNEW\Sonartez.Services\bin\System.Web.Http.dll
+D:\Dev\Apps\TTXTDL\Hội An\DNNEW\Sonartez.Services\bin\System.Web.Http.OData.dll
+D:\Dev\Apps\TTXTDL\Hội An\DNNEW\Sonartez.Services\bin\System.Web.Http.Tracing.dll
+D:\Dev\Apps\TTXTDL\Hội An\DNNEW\Sonartez.Services\bin\System.Web.Http.WebHost.dll
+D:\Dev\Apps\TTXTDL\Hội An\DNNEW\Sonartez.Services\bin\System.Web.Mvc.dll
+D:\Dev\Apps\TTXTDL\Hội An\DNNEW\Sonartez.Services\bin\System.Web.Optimization.dll
+D:\Dev\Apps\TTXTDL\Hội An\DNNEW\Sonartez.Services\bin\System.Web.Providers.dll
+D:\Dev\Apps\TTXTDL\Hội An\DNNEW\Sonartez.Services\bin\System.Web.Razor.dll
+D:\Dev\Apps\TTXTDL\Hội An\DNNEW\Sonartez.Services\bin\System.Web.WebPages.Deployment.dll
+D:\Dev\Apps\TTXTDL\Hội An\DNNEW\Sonartez.Services\bin\System.Web.WebPages.dll
+D:\Dev\Apps\TTXTDL\Hội An\DNNEW\Sonartez.Services\bin\System.Web.WebPages.Razor.dll
+D:\Dev\Apps\TTXTDL\Hội An\DNNEW\Sonartez.Services\bin\WebGrease.dll
+D:\Dev\Apps\TTXTDL\Hội An\DNNEW\Sonartez.Services\bin\Sonartez.Entities.pdb
+D:\Dev\Apps\TTXTDL\Hội An\DNNEW\Sonartez.Services\bin\Newtonsoft.Json.xml
+D:\Dev\Apps\TTXTDL\Hội An\DNNEW\Sonartez.Services\bin\System.Net.Http.Extensions.xml
+D:\Dev\Apps\TTXTDL\Hội An\DNNEW\Sonartez.Services\bin\System.Net.Http.Formatting.xml
+D:\Dev\Apps\TTXTDL\Hội An\DNNEW\Sonartez.Services\bin\System.Net.Http.Primitives.xml
+D:\Dev\Apps\TTXTDL\Hội An\DNNEW\Sonartez.Services\bin\System.Web.Http.xml
+D:\Dev\Apps\TTXTDL\Hội An\DNNEW\Sonartez.Services\bin\System.Web.Http.OData.xml
+D:\Dev\Apps\TTXTDL\Hội An\DNNEW\Sonartez.Services\bin\EntityFramework.xml
+D:\Dev\Apps\TTXTDL\Hội An\DNNEW\Sonartez.Services\bin\System.Web.Helpers.xml
+D:\Dev\Apps\TTXTDL\Hội An\DNNEW\Sonartez.Services\bin\System.Web.Http.WebHost.xml
+D:\Dev\Apps\TTXTDL\Hội An\DNNEW\Sonartez.Services\bin\System.Web.Mvc.xml
+D:\Dev\Apps\TTXTDL\Hội An\DNNEW\Sonartez.Services\bin\System.Web.Razor.xml
+D:\Dev\Apps\TTXTDL\Hội An\DNNEW\Sonartez.Services\bin\System.Web.WebPages.xml
+D:\Dev\Apps\TTXTDL\Hội An\DNNEW\Sonartez.Services\bin\System.Web.WebPages.Deployment.xml
+D:\Dev\Apps\TTXTDL\Hội An\DNNEW\Sonartez.Services\bin\System.Web.WebPages.Razor.xml
+D:\Dev\Apps\TTXTDL\Hội An\DNNEW\Sonartez.Services\bin\System.Web.Http.Tracing.xml
+D:\Dev\Apps\TTXTDL\Hội An\DNNEW\Sonartez.Services\bin\Microsoft.Data.Edm.xml
+D:\Dev\Apps\TTXTDL\Hội An\DNNEW\Sonartez.Services\bin\Microsoft.Data.OData.xml
+D:\Dev\Apps\TTXTDL\Hội An\DNNEW\Sonartez.Services\bin\System.Spatial.xml
+D:\Dev\Apps\TTXTDL\Hội An\DNNEW\Sonartez.Services\bin\de\Microsoft.Data.Edm.resources.dll
+D:\Dev\Apps\TTXTDL\Hội An\DNNEW\Sonartez.Services\bin\es\Microsoft.Data.Edm.resources.dll
+D:\Dev\Apps\TTXTDL\Hội An\DNNEW\Sonartez.Services\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\Dev\Apps\TTXTDL\Hội An\DNNEW\Sonartez.Services\bin\it\Microsoft.Data.Edm.resources.dll
+D:\Dev\Apps\TTXTDL\Hội An\DNNEW\Sonartez.Services\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\Dev\Apps\TTXTDL\Hội An\DNNEW\Sonartez.Services\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\Dev\Apps\TTXTDL\Hội An\DNNEW\Sonartez.Services\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\Dev\Apps\TTXTDL\Hội An\DNNEW\Sonartez.Services\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\Dev\Apps\TTXTDL\Hội An\DNNEW\Sonartez.Services\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\Dev\Apps\TTXTDL\Hội An\DNNEW\Sonartez.Services\bin\de\Microsoft.Data.OData.resources.dll
+D:\Dev\Apps\TTXTDL\Hội An\DNNEW\Sonartez.Services\bin\es\Microsoft.Data.OData.resources.dll
+D:\Dev\Apps\TTXTDL\Hội An\DNNEW\Sonartez.Services\bin\fr\Microsoft.Data.OData.resources.dll
+D:\Dev\Apps\TTXTDL\Hội An\DNNEW\Sonartez.Services\bin\it\Microsoft.Data.OData.resources.dll
+D:\Dev\Apps\TTXTDL\Hội An\DNNEW\Sonartez.Services\bin\ja\Microsoft.Data.OData.resources.dll
+D:\Dev\Apps\TTXTDL\Hội An\DNNEW\Sonartez.Services\bin\ko\Microsoft.Data.OData.resources.dll
+D:\Dev\Apps\TTXTDL\Hội An\DNNEW\Sonartez.Services\bin\ru\Microsoft.Data.OData.resources.dll
+D:\Dev\Apps\TTXTDL\Hội An\DNNEW\Sonartez.Services\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\Dev\Apps\TTXTDL\Hội An\DNNEW\Sonartez.Services\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\Dev\Apps\TTXTDL\Hội An\DNNEW\Sonartez.Services\bin\de\System.Spatial.resources.dll
+D:\Dev\Apps\TTXTDL\Hội An\DNNEW\Sonartez.Services\bin\es\System.Spatial.resources.dll
+D:\Dev\Apps\TTXTDL\Hội An\DNNEW\Sonartez.Services\bin\fr\System.Spatial.resources.dll
+D:\Dev\Apps\TTXTDL\Hội An\DNNEW\Sonartez.Services\bin\it\System.Spatial.resources.dll
+D:\Dev\Apps\TTXTDL\Hội An\DNNEW\Sonartez.Services\bin\ja\System.Spatial.resources.dll
+D:\Dev\Apps\TTXTDL\Hội An\DNNEW\Sonartez.Services\bin\ko\System.Spatial.resources.dll
+D:\Dev\Apps\TTXTDL\Hội An\DNNEW\Sonartez.Services\bin\ru\System.Spatial.resources.dll
+D:\Dev\Apps\TTXTDL\Hội An\DNNEW\Sonartez.Services\bin\zh-Hans\System.Spatial.resources.dll
+D:\Dev\Apps\TTXTDL\Hội An\DNNEW\Sonartez.Services\bin\zh-Hant\System.Spatial.resources.dll
+D:\Dev\Apps\TTXTDL\Hội An\DNNEW\Sonartez.Services\obj\Release\Sonartez.Services.csprojResolveAssemblyReference.cache
+D:\Dev\Apps\TTXTDL\Hội An\DNNEW\Sonartez.Services\obj\Release\Sonartez.Services.dll
+D:\Dev\Apps\TTXTDL\Hội An\DNNEW\Sonartez.Services\obj\Release\Sonartez.Services.pdb
+D:\Apps\Hội An\DNNEW\Sonartez.Services\bin\Sonartez.Services.dll
+D:\Apps\Hội An\DNNEW\Sonartez.Services\bin\Sonartez.Services.pdb
+D:\Apps\Hội An\DNNEW\Sonartez.Services\bin\Antlr3.Runtime.dll
+D:\Apps\Hội An\DNNEW\Sonartez.Services\bin\EntityFramework.dll
+D:\Apps\Hội An\DNNEW\Sonartez.Services\bin\Microsoft.Data.Edm.dll
+D:\Apps\Hội An\DNNEW\Sonartez.Services\bin\Microsoft.Data.OData.dll
+D:\Apps\Hội An\DNNEW\Sonartez.Services\bin\Microsoft.Web.Infrastructure.dll
+D:\Apps\Hội An\DNNEW\Sonartez.Services\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\Apps\Hội An\DNNEW\Sonartez.Services\bin\Newtonsoft.Json.dll
+D:\Apps\Hội An\DNNEW\Sonartez.Services\bin\Sonartez.Entities.dll
+D:\Apps\Hội An\DNNEW\Sonartez.Services\bin\System.Net.Http.Extensions.dll
+D:\Apps\Hội An\DNNEW\Sonartez.Services\bin\System.Net.Http.Formatting.dll
+D:\Apps\Hội An\DNNEW\Sonartez.Services\bin\System.Net.Http.Primitives.dll
+D:\Apps\Hội An\DNNEW\Sonartez.Services\bin\System.Spatial.dll
+D:\Apps\Hội An\DNNEW\Sonartez.Services\bin\System.Web.Helpers.dll
+D:\Apps\Hội An\DNNEW\Sonartez.Services\bin\System.Web.Http.dll
+D:\Apps\Hội An\DNNEW\Sonartez.Services\bin\System.Web.Http.OData.dll
+D:\Apps\Hội An\DNNEW\Sonartez.Services\bin\System.Web.Http.Tracing.dll
+D:\Apps\Hội An\DNNEW\Sonartez.Services\bin\System.Web.Http.WebHost.dll
+D:\Apps\Hội An\DNNEW\Sonartez.Services\bin\System.Web.Mvc.dll
+D:\Apps\Hội An\DNNEW\Sonartez.Services\bin\System.Web.Optimization.dll
+D:\Apps\Hội An\DNNEW\Sonartez.Services\bin\System.Web.Providers.dll
+D:\Apps\Hội An\DNNEW\Sonartez.Services\bin\System.Web.Razor.dll
+D:\Apps\Hội An\DNNEW\Sonartez.Services\bin\System.Web.WebPages.Deployment.dll
+D:\Apps\Hội An\DNNEW\Sonartez.Services\bin\System.Web.WebPages.dll
+D:\Apps\Hội An\DNNEW\Sonartez.Services\bin\System.Web.WebPages.Razor.dll
+D:\Apps\Hội An\DNNEW\Sonartez.Services\bin\WebGrease.dll
+D:\Apps\Hội An\DNNEW\Sonartez.Services\bin\Sonartez.Entities.pdb
+D:\Apps\Hội An\DNNEW\Sonartez.Services\bin\Newtonsoft.Json.xml
+D:\Apps\Hội An\DNNEW\Sonartez.Services\bin\System.Net.Http.Extensions.xml
+D:\Apps\Hội An\DNNEW\Sonartez.Services\bin\System.Net.Http.Formatting.xml
+D:\Apps\Hội An\DNNEW\Sonartez.Services\bin\System.Net.Http.Primitives.xml
+D:\Apps\Hội An\DNNEW\Sonartez.Services\bin\System.Web.Http.xml
+D:\Apps\Hội An\DNNEW\Sonartez.Services\bin\System.Web.Http.OData.xml
+D:\Apps\Hội An\DNNEW\Sonartez.Services\bin\EntityFramework.xml
+D:\Apps\Hội An\DNNEW\Sonartez.Services\bin\System.Web.Helpers.xml
+D:\Apps\Hội An\DNNEW\Sonartez.Services\bin\System.Web.Http.WebHost.xml
+D:\Apps\Hội An\DNNEW\Sonartez.Services\bin\System.Web.Mvc.xml
+D:\Apps\Hội An\DNNEW\Sonartez.Services\bin\System.Web.Razor.xml
+D:\Apps\Hội An\DNNEW\Sonartez.Services\bin\System.Web.WebPages.xml
+D:\Apps\Hội An\DNNEW\Sonartez.Services\bin\System.Web.WebPages.Deployment.xml
+D:\Apps\Hội An\DNNEW\Sonartez.Services\bin\System.Web.WebPages.Razor.xml
+D:\Apps\Hội An\DNNEW\Sonartez.Services\bin\System.Web.Http.Tracing.xml
+D:\Apps\Hội An\DNNEW\Sonartez.Services\bin\Microsoft.Data.Edm.xml
+D:\Apps\Hội An\DNNEW\Sonartez.Services\bin\Microsoft.Data.OData.xml
+D:\Apps\Hội An\DNNEW\Sonartez.Services\bin\System.Spatial.xml
+D:\Apps\Hội An\DNNEW\Sonartez.Services\bin\de\Microsoft.Data.Edm.resources.dll
+D:\Apps\Hội An\DNNEW\Sonartez.Services\bin\es\Microsoft.Data.Edm.resources.dll
+D:\Apps\Hội An\DNNEW\Sonartez.Services\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\Apps\Hội An\DNNEW\Sonartez.Services\bin\it\Microsoft.Data.Edm.resources.dll
+D:\Apps\Hội An\DNNEW\Sonartez.Services\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\Apps\Hội An\DNNEW\Sonartez.Services\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\Apps\Hội An\DNNEW\Sonartez.Services\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\Apps\Hội An\DNNEW\Sonartez.Services\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\Apps\Hội An\DNNEW\Sonartez.Services\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\Apps\Hội An\DNNEW\Sonartez.Services\bin\de\Microsoft.Data.OData.resources.dll
+D:\Apps\Hội An\DNNEW\Sonartez.Services\bin\es\Microsoft.Data.OData.resources.dll
+D:\Apps\Hội An\DNNEW\Sonartez.Services\bin\fr\Microsoft.Data.OData.resources.dll
+D:\Apps\Hội An\DNNEW\Sonartez.Services\bin\it\Microsoft.Data.OData.resources.dll
+D:\Apps\Hội An\DNNEW\Sonartez.Services\bin\ja\Microsoft.Data.OData.resources.dll
+D:\Apps\Hội An\DNNEW\Sonartez.Services\bin\ko\Microsoft.Data.OData.resources.dll
+D:\Apps\Hội An\DNNEW\Sonartez.Services\bin\ru\Microsoft.Data.OData.resources.dll
+D:\Apps\Hội An\DNNEW\Sonartez.Services\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\Apps\Hội An\DNNEW\Sonartez.Services\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\Apps\Hội An\DNNEW\Sonartez.Services\bin\de\System.Spatial.resources.dll
+D:\Apps\Hội An\DNNEW\Sonartez.Services\bin\es\System.Spatial.resources.dll
+D:\Apps\Hội An\DNNEW\Sonartez.Services\bin\fr\System.Spatial.resources.dll
+D:\Apps\Hội An\DNNEW\Sonartez.Services\bin\it\System.Spatial.resources.dll
+D:\Apps\Hội An\DNNEW\Sonartez.Services\bin\ja\System.Spatial.resources.dll
+D:\Apps\Hội An\DNNEW\Sonartez.Services\bin\ko\System.Spatial.resources.dll
+D:\Apps\Hội An\DNNEW\Sonartez.Services\bin\ru\System.Spatial.resources.dll
+D:\Apps\Hội An\DNNEW\Sonartez.Services\bin\zh-Hans\System.Spatial.resources.dll
+D:\Apps\Hội An\DNNEW\Sonartez.Services\bin\zh-Hant\System.Spatial.resources.dll
+D:\Apps\Hội An\DNNEW\Sonartez.Services\obj\Release\Sonartez.Services.csprojResolveAssemblyReference.cache
+D:\Apps\Hội An\DNNEW\Sonartez.Services\obj\Release\Sonartez.Services.dll
+D:\Apps\Hội An\DNNEW\Sonartez.Services\obj\Release\Sonartez.Services.pdb

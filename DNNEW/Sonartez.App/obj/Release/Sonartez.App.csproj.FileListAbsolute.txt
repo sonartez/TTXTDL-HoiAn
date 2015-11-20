@@ -1,0 +1,36 @@
+D:\Dev\Apps\TTXTDL\DNNEW\Sonartez.App\bin\Release\SonartezClient.sdf
+D:\Dev\Apps\TTXTDL\DNNEW\Sonartez.App\bin\Release\Sonartez.App.exe.config
+D:\Dev\Apps\TTXTDL\DNNEW\Sonartez.App\bin\Release\Sonartez.App.exe
+D:\Dev\Apps\TTXTDL\DNNEW\Sonartez.App\bin\Release\Sonartez.App.pdb
+D:\Dev\Apps\TTXTDL\DNNEW\Sonartez.App\bin\Release\Sonartez.Entities.dll
+D:\Dev\Apps\TTXTDL\DNNEW\Sonartez.App\bin\Release\Sonartez.Entities.pdb
+D:\Dev\Apps\TTXTDL\DNNEW\Sonartez.App\obj\Release\Sonartez.App.csprojResolveAssemblyReference.cache
+D:\Dev\Apps\TTXTDL\DNNEW\Sonartez.App\obj\Release\Sonartez.Hepldesk.FrmMain.resources
+D:\Dev\Apps\TTXTDL\DNNEW\Sonartez.App\obj\Release\Sonartez.Hepldesk.Properties.Resources.resources
+D:\Dev\Apps\TTXTDL\DNNEW\Sonartez.App\obj\Release\Sonartez.App.csproj.GenerateResource.Cache
+D:\Dev\Apps\TTXTDL\DNNEW\Sonartez.App\obj\Release\Sonartez.App.exe
+D:\Dev\Apps\TTXTDL\DNNEW\Sonartez.App\obj\Release\Sonartez.App.pdb
+D:\Dev\Apps\TTXTDL\Hội An\DNNEW\Sonartez.App\bin\Release\SonartezClient.sdf
+D:\Dev\Apps\TTXTDL\Hội An\DNNEW\Sonartez.App\bin\Release\Sonartez.App.exe.config
+D:\Dev\Apps\TTXTDL\Hội An\DNNEW\Sonartez.App\bin\Release\Sonartez.App.exe
+D:\Dev\Apps\TTXTDL\Hội An\DNNEW\Sonartez.App\bin\Release\Sonartez.App.pdb
+D:\Dev\Apps\TTXTDL\Hội An\DNNEW\Sonartez.App\bin\Release\Sonartez.Entities.dll
+D:\Dev\Apps\TTXTDL\Hội An\DNNEW\Sonartez.App\bin\Release\Sonartez.Entities.pdb
+D:\Dev\Apps\TTXTDL\Hội An\DNNEW\Sonartez.App\obj\Release\Sonartez.App.csprojResolveAssemblyReference.cache
+D:\Dev\Apps\TTXTDL\Hội An\DNNEW\Sonartez.App\obj\Release\Sonartez.Hepldesk.FrmMain.resources
+D:\Dev\Apps\TTXTDL\Hội An\DNNEW\Sonartez.App\obj\Release\Sonartez.Hepldesk.Properties.Resources.resources
+D:\Dev\Apps\TTXTDL\Hội An\DNNEW\Sonartez.App\obj\Release\Sonartez.App.csproj.GenerateResource.Cache
+D:\Dev\Apps\TTXTDL\Hội An\DNNEW\Sonartez.App\obj\Release\Sonartez.App.exe
+D:\Dev\Apps\TTXTDL\Hội An\DNNEW\Sonartez.App\obj\Release\Sonartez.App.pdb
+D:\Apps\Hội An\DNNEW\Sonartez.App\bin\Release\SonartezClient.sdf
+D:\Apps\Hội An\DNNEW\Sonartez.App\bin\Release\Sonartez.App.exe.config
+D:\Apps\Hội An\DNNEW\Sonartez.App\bin\Release\Sonartez.App.exe
+D:\Apps\Hội An\DNNEW\Sonartez.App\bin\Release\Sonartez.App.pdb
+D:\Apps\Hội An\DNNEW\Sonartez.App\bin\Release\Sonartez.Entities.dll
+D:\Apps\Hội An\DNNEW\Sonartez.App\bin\Release\Sonartez.Entities.pdb
+D:\Apps\Hội An\DNNEW\Sonartez.App\obj\Release\Sonartez.App.csprojResolveAssemblyReference.cache
+D:\Apps\Hội An\DNNEW\Sonartez.App\obj\Release\Sonartez.Hepldesk.FrmMain.resources
+D:\Apps\Hội An\DNNEW\Sonartez.App\obj\Release\Sonartez.Hepldesk.Properties.Resources.resources
+D:\Apps\Hội An\DNNEW\Sonartez.App\obj\Release\Sonartez.App.csproj.GenerateResource.Cache
+D:\Apps\Hội An\DNNEW\Sonartez.App\obj\Release\Sonartez.App.exe
+D:\Apps\Hội An\DNNEW\Sonartez.App\obj\Release\Sonartez.App.pdb

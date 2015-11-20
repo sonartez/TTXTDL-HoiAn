@@ -1,0 +1,191 @@
+D:\devs\ttxtdl\Sonartez.Services\ImportData\bin\Debug\ImportData.exe.config
+D:\devs\ttxtdl\Sonartez.Services\ImportData\bin\Debug\ImportData.exe
+D:\devs\ttxtdl\Sonartez.Services\ImportData\bin\Debug\ImportData.pdb
+D:\devs\ttxtdl\Sonartez.Services\ImportData\bin\Debug\LinqToExcel.dll
+D:\devs\ttxtdl\Sonartez.Services\ImportData\bin\Debug\log4net.dll
+D:\devs\ttxtdl\Sonartez.Services\ImportData\bin\Debug\Remotion.Data.Linq.dll
+D:\devs\ttxtdl\Sonartez.Services\ImportData\bin\Debug\Remotion.dll
+D:\devs\ttxtdl\Sonartez.Services\ImportData\bin\Debug\Remotion.Interfaces.dll
+D:\devs\ttxtdl\Sonartez.Services\ImportData\bin\Debug\Sonartez.Entities.dll
+D:\devs\ttxtdl\Sonartez.Services\ImportData\bin\Debug\Sonartez.Entities.pdb
+D:\devs\ttxtdl\Sonartez.Services\ImportData\bin\Debug\LinqToExcel.xml
+D:\devs\ttxtdl\Sonartez.Services\ImportData\bin\Debug\log4net.xml
+D:\devs\ttxtdl\Sonartez.Services\ImportData\obj\Debug\ImportData.csprojResolveAssemblyReference.cache
+D:\devs\ttxtdl\Sonartez.Services\ImportData\obj\Debug\ImportData.Form1.resources
+D:\devs\ttxtdl\Sonartez.Services\ImportData\obj\Debug\ImportData.Properties.Resources.resources
+D:\devs\ttxtdl\Sonartez.Services\ImportData\obj\Debug\ImportData.csproj.GenerateResource.Cache
+D:\devs\ttxtdl\Sonartez.Services\ImportData\obj\Debug\ImportData.exe
+D:\devs\ttxtdl\Sonartez.Services\ImportData\obj\Debug\ImportData.pdb
+D:\Dev\Apps\Sonartez.Services.v11\ImportData\bin\Debug\ImportData.exe.config
+D:\Dev\Apps\Sonartez.Services.v11\ImportData\obj\Debug\ImportData.exe
+D:\Dev\Apps\Sonartez.Services.v11\ImportData\obj\Debug\ImportData.pdb
+D:\Dev\Apps\Sonartez.Services.v11\ImportData\bin\Debug\ImportData.exe
+D:\Dev\Apps\Sonartez.Services.v11\ImportData\bin\Debug\ImportData.pdb
+D:\Dev\Apps\Sonartez.Services.v11\ImportData\bin\Debug\LinqToExcel.dll
+D:\Dev\Apps\Sonartez.Services.v11\ImportData\bin\Debug\log4net.dll
+D:\Dev\Apps\Sonartez.Services.v11\ImportData\bin\Debug\Remotion.Data.Linq.dll
+D:\Dev\Apps\Sonartez.Services.v11\ImportData\bin\Debug\Remotion.dll
+D:\Dev\Apps\Sonartez.Services.v11\ImportData\bin\Debug\Remotion.Interfaces.dll
+D:\Dev\Apps\Sonartez.Services.v11\ImportData\bin\Debug\Sonartez.Entities.dll
+D:\Dev\Apps\Sonartez.Services.v11\ImportData\bin\Debug\Sonartez.Entities.pdb
+D:\Dev\Apps\Sonartez.Services.v11\ImportData\bin\Debug\LinqToExcel.xml
+D:\Dev\Apps\Sonartez.Services.v11\ImportData\bin\Debug\log4net.xml
+D:\Dev\Apps\Sonartez.Services.v11\ImportData\obj\Debug\ImportData.csprojResolveAssemblyReference.cache
+D:\Dev\Apps\Sonartez.Services.v11\ImportData\obj\Debug\ImportData.Form1.resources
+D:\Dev\Apps\Sonartez.Services.v11\ImportData\obj\Debug\ImportData.Properties.Resources.resources
+D:\Dev\Apps\Sonartez.Services.v11\ImportData\obj\Debug\ImportData.csproj.GenerateResource.Cache
+D:\Dev\Apps\Sonartez.Services.v11\ImportData\bin\Debug\SonartezClient.sdf
+D:\Dev\Apps\Sonartez.Services.v11\ImportData\bin\Debug\TTXTDL Da Nang Helpdesk.exe
+D:\Dev\Apps\Sonartez.Services.v11\ImportData\bin\Debug\MetroFramework.dll
+D:\Dev\Apps\Sonartez.Services.v11\ImportData\bin\Debug\ObjectListView.dll
+D:\Dev\Apps\Sonartez.Services.v11\ImportData\bin\Debug\TTXTDL Da Nang Helpdesk.pdb
+C:\Users\Linh\Desktop\TTXTDL\Apps\Sonartez.Services.v11\ImportData\bin\Debug\SonartezClient.sdf
+C:\Users\Linh\Desktop\TTXTDL\Apps\Sonartez.Services.v11\ImportData\bin\Debug\ImportData.exe.config
+C:\Users\Linh\Desktop\TTXTDL\Apps\Sonartez.Services.v11\ImportData\bin\Debug\ImportData.exe
+C:\Users\Linh\Desktop\TTXTDL\Apps\Sonartez.Services.v11\ImportData\bin\Debug\ImportData.pdb
+C:\Users\Linh\Desktop\TTXTDL\Apps\Sonartez.Services.v11\ImportData\bin\Debug\LinqToExcel.dll
+C:\Users\Linh\Desktop\TTXTDL\Apps\Sonartez.Services.v11\ImportData\bin\Debug\log4net.dll
+C:\Users\Linh\Desktop\TTXTDL\Apps\Sonartez.Services.v11\ImportData\bin\Debug\Remotion.Data.Linq.dll
+C:\Users\Linh\Desktop\TTXTDL\Apps\Sonartez.Services.v11\ImportData\bin\Debug\Remotion.dll
+C:\Users\Linh\Desktop\TTXTDL\Apps\Sonartez.Services.v11\ImportData\bin\Debug\Remotion.Interfaces.dll
+C:\Users\Linh\Desktop\TTXTDL\Apps\Sonartez.Services.v11\ImportData\bin\Debug\Sonartez.Entities.dll
+C:\Users\Linh\Desktop\TTXTDL\Apps\Sonartez.Services.v11\ImportData\bin\Debug\TTXTDL Da Nang Helpdesk.exe
+C:\Users\Linh\Desktop\TTXTDL\Apps\Sonartez.Services.v11\ImportData\bin\Debug\MetroFramework.dll
+C:\Users\Linh\Desktop\TTXTDL\Apps\Sonartez.Services.v11\ImportData\bin\Debug\ObjectListView.dll
+C:\Users\Linh\Desktop\TTXTDL\Apps\Sonartez.Services.v11\ImportData\bin\Debug\Sonartez.Entities.pdb
+C:\Users\Linh\Desktop\TTXTDL\Apps\Sonartez.Services.v11\ImportData\bin\Debug\TTXTDL Da Nang Helpdesk.pdb
+C:\Users\Linh\Desktop\TTXTDL\Apps\Sonartez.Services.v11\ImportData\bin\Debug\LinqToExcel.xml
+C:\Users\Linh\Desktop\TTXTDL\Apps\Sonartez.Services.v11\ImportData\bin\Debug\log4net.xml
+C:\Users\Linh\Desktop\TTXTDL\Apps\Sonartez.Services.v11\ImportData\obj\Debug\ImportData.csprojResolveAssemblyReference.cache
+C:\Users\Linh\Desktop\TTXTDL\Apps\Sonartez.Services.v11\ImportData\obj\Debug\ImportData.Form1.resources
+C:\Users\Linh\Desktop\TTXTDL\Apps\Sonartez.Services.v11\ImportData\obj\Debug\ImportData.Properties.Resources.resources
+C:\Users\Linh\Desktop\TTXTDL\Apps\Sonartez.Services.v11\ImportData\obj\Debug\ImportData.csproj.GenerateResource.Cache
+C:\Users\Linh\Desktop\TTXTDL\Apps\Sonartez.Services.v11\ImportData\obj\Debug\ImportData.exe
+C:\Users\Linh\Desktop\TTXTDL\Apps\Sonartez.Services.v11\ImportData\obj\Debug\ImportData.pdb
+D:\Dev\Apps\20141112\Sonartez.Services.v11\ImportData\bin\Debug\SonartezClient.sdf
+D:\Dev\Apps\20141112\Sonartez.Services.v11\ImportData\bin\Debug\ImportData.exe.config
+D:\Dev\Apps\20141112\Sonartez.Services.v11\ImportData\bin\Debug\ImportData.exe
+D:\Dev\Apps\20141112\Sonartez.Services.v11\ImportData\bin\Debug\ImportData.pdb
+D:\Dev\Apps\20141112\Sonartez.Services.v11\ImportData\bin\Debug\LinqToExcel.dll
+D:\Dev\Apps\20141112\Sonartez.Services.v11\ImportData\bin\Debug\log4net.dll
+D:\Dev\Apps\20141112\Sonartez.Services.v11\ImportData\bin\Debug\Remotion.Data.Linq.dll
+D:\Dev\Apps\20141112\Sonartez.Services.v11\ImportData\bin\Debug\Remotion.dll
+D:\Dev\Apps\20141112\Sonartez.Services.v11\ImportData\bin\Debug\Remotion.Interfaces.dll
+D:\Dev\Apps\20141112\Sonartez.Services.v11\ImportData\bin\Debug\Sonartez.Entities.dll
+D:\Dev\Apps\20141112\Sonartez.Services.v11\ImportData\bin\Debug\System.Net.Http.Extensions.dll
+D:\Dev\Apps\20141112\Sonartez.Services.v11\ImportData\bin\Debug\System.Net.Http.Primitives.dll
+D:\Dev\Apps\20141112\Sonartez.Services.v11\ImportData\bin\Debug\TTXTDL Da Nang Helpdesk.exe
+D:\Dev\Apps\20141112\Sonartez.Services.v11\ImportData\bin\Debug\MetroFramework.dll
+D:\Dev\Apps\20141112\Sonartez.Services.v11\ImportData\bin\Debug\ObjectListView.dll
+D:\Dev\Apps\20141112\Sonartez.Services.v11\ImportData\bin\Debug\Sonartez.Entities.pdb
+D:\Dev\Apps\20141112\Sonartez.Services.v11\ImportData\bin\Debug\TTXTDL Da Nang Helpdesk.pdb
+D:\Dev\Apps\20141112\Sonartez.Services.v11\ImportData\bin\Debug\LinqToExcel.xml
+D:\Dev\Apps\20141112\Sonartez.Services.v11\ImportData\bin\Debug\log4net.xml
+D:\Dev\Apps\20141112\Sonartez.Services.v11\ImportData\bin\Debug\System.Net.Http.Extensions.xml
+D:\Dev\Apps\20141112\Sonartez.Services.v11\ImportData\bin\Debug\System.Net.Http.Primitives.xml
+D:\Dev\Apps\20141112\Sonartez.Services.v11\ImportData\obj\Debug\ImportData.csproj.App.config
+D:\Dev\Apps\20141112\Sonartez.Services.v11\ImportData\obj\Debug\ImportData.csprojResolveAssemblyReference.cache
+D:\Dev\Apps\20141112\Sonartez.Services.v11\ImportData\obj\Debug\ImportData.Form1.resources
+D:\Dev\Apps\20141112\Sonartez.Services.v11\ImportData\obj\Debug\ImportData.Properties.Resources.resources
+D:\Dev\Apps\20141112\Sonartez.Services.v11\ImportData\obj\Debug\ImportData.csproj.GenerateResource.Cache
+D:\Dev\Apps\20141112\Sonartez.Services.v11\ImportData\obj\Debug\ImportData.exe
+D:\Dev\Apps\20141112\Sonartez.Services.v11\ImportData\obj\Debug\ImportData.pdb
+D:\Dev\Apps\20141112\Sonartez.Services.v11\ImportData\bin\Debug\System.Net.Http.Formatting.dll
+D:\Dev\Apps\20141112\Sonartez.Services.v11\ImportData\bin\Debug\Newtonsoft.Json.dll
+D:\Dev\Apps\20141112\Sonartez.Services.v11\ImportData\bin\Debug\System.Net.Http.Formatting.xml
+D:\Dev\Apps\20141112\Sonartez.Services.v11\ImportData\bin\Debug\Newtonsoft.Json.xml
+D:\Apps\TTXTDL\1112\ImportData\bin\Debug\SonartezClient.sdf
+D:\Apps\TTXTDL\1112\ImportData\bin\Debug\ImportData.exe.config
+D:\Apps\TTXTDL\1112\ImportData\bin\Debug\ImportData.exe
+D:\Apps\TTXTDL\1112\ImportData\bin\Debug\ImportData.pdb
+D:\Apps\TTXTDL\1112\ImportData\bin\Debug\LinqToExcel.dll
+D:\Apps\TTXTDL\1112\ImportData\bin\Debug\log4net.dll
+D:\Apps\TTXTDL\1112\ImportData\bin\Debug\Remotion.Data.Linq.dll
+D:\Apps\TTXTDL\1112\ImportData\bin\Debug\Remotion.dll
+D:\Apps\TTXTDL\1112\ImportData\bin\Debug\Remotion.Interfaces.dll
+D:\Apps\TTXTDL\1112\ImportData\bin\Debug\Sonartez.Entities.dll
+D:\Apps\TTXTDL\1112\ImportData\bin\Debug\System.Net.Http.Extensions.dll
+D:\Apps\TTXTDL\1112\ImportData\bin\Debug\System.Net.Http.Primitives.dll
+D:\Apps\TTXTDL\1112\ImportData\bin\Debug\TTXTDL Da Nang Helpdesk.exe
+D:\Apps\TTXTDL\1112\ImportData\bin\Debug\MetroFramework.dll
+D:\Apps\TTXTDL\1112\ImportData\bin\Debug\ObjectListView.dll
+D:\Apps\TTXTDL\1112\ImportData\bin\Debug\System.Net.Http.Formatting.dll
+D:\Apps\TTXTDL\1112\ImportData\bin\Debug\Newtonsoft.Json.dll
+D:\Apps\TTXTDL\1112\ImportData\bin\Debug\Sonartez.Entities.pdb
+D:\Apps\TTXTDL\1112\ImportData\bin\Debug\TTXTDL Da Nang Helpdesk.pdb
+D:\Apps\TTXTDL\1112\ImportData\bin\Debug\LinqToExcel.xml
+D:\Apps\TTXTDL\1112\ImportData\bin\Debug\log4net.xml
+D:\Apps\TTXTDL\1112\ImportData\bin\Debug\System.Net.Http.Extensions.xml
+D:\Apps\TTXTDL\1112\ImportData\bin\Debug\System.Net.Http.Primitives.xml
+D:\Apps\TTXTDL\1112\ImportData\bin\Debug\System.Net.Http.Formatting.xml
+D:\Apps\TTXTDL\1112\ImportData\bin\Debug\Newtonsoft.Json.xml
+D:\Apps\TTXTDL\1112\ImportData\obj\Debug\ImportData.csproj.App.config
+D:\Apps\TTXTDL\1112\ImportData\obj\Debug\ImportData.csprojResolveAssemblyReference.cache
+D:\Apps\TTXTDL\1112\ImportData\obj\Debug\ImportData.Form1.resources
+D:\Apps\TTXTDL\1112\ImportData\obj\Debug\ImportData.Properties.Resources.resources
+D:\Apps\TTXTDL\1112\ImportData\obj\Debug\ImportData.csproj.GenerateResource.Cache
+D:\Apps\TTXTDL\1112\ImportData\obj\Debug\ImportData.exe
+D:\Apps\TTXTDL\1112\ImportData\obj\Debug\ImportData.pdb
+D:\Dev\Apps\TTXTDL\DNNEW\ImportData\bin\Debug\SonartezClient.sdf
+D:\Dev\Apps\TTXTDL\DNNEW\ImportData\bin\Debug\ImportData.exe.config
+D:\Dev\Apps\TTXTDL\DNNEW\ImportData\bin\Debug\ImportData.exe
+D:\Dev\Apps\TTXTDL\DNNEW\ImportData\bin\Debug\ImportData.pdb
+D:\Dev\Apps\TTXTDL\DNNEW\ImportData\bin\Debug\LinqToExcel.dll
+D:\Dev\Apps\TTXTDL\DNNEW\ImportData\bin\Debug\log4net.dll
+D:\Dev\Apps\TTXTDL\DNNEW\ImportData\bin\Debug\Remotion.Data.Linq.dll
+D:\Dev\Apps\TTXTDL\DNNEW\ImportData\bin\Debug\Remotion.dll
+D:\Dev\Apps\TTXTDL\DNNEW\ImportData\bin\Debug\Remotion.Interfaces.dll
+D:\Dev\Apps\TTXTDL\DNNEW\ImportData\bin\Debug\Sonartez.Entities.dll
+D:\Dev\Apps\TTXTDL\DNNEW\ImportData\bin\Debug\System.Net.Http.Extensions.dll
+D:\Dev\Apps\TTXTDL\DNNEW\ImportData\bin\Debug\System.Net.Http.Primitives.dll
+D:\Dev\Apps\TTXTDL\DNNEW\ImportData\bin\Debug\TTXTDL Da Nang Helpdesk.exe
+D:\Dev\Apps\TTXTDL\DNNEW\ImportData\bin\Debug\MetroFramework.dll
+D:\Dev\Apps\TTXTDL\DNNEW\ImportData\bin\Debug\ObjectListView.dll
+D:\Dev\Apps\TTXTDL\DNNEW\ImportData\bin\Debug\System.Net.Http.Formatting.dll
+D:\Dev\Apps\TTXTDL\DNNEW\ImportData\bin\Debug\Newtonsoft.Json.dll
+D:\Dev\Apps\TTXTDL\DNNEW\ImportData\bin\Debug\Sonartez.Entities.pdb
+D:\Dev\Apps\TTXTDL\DNNEW\ImportData\bin\Debug\TTXTDL Da Nang Helpdesk.pdb
+D:\Dev\Apps\TTXTDL\DNNEW\ImportData\bin\Debug\LinqToExcel.xml
+D:\Dev\Apps\TTXTDL\DNNEW\ImportData\bin\Debug\log4net.xml
+D:\Dev\Apps\TTXTDL\DNNEW\ImportData\bin\Debug\System.Net.Http.Extensions.xml
+D:\Dev\Apps\TTXTDL\DNNEW\ImportData\bin\Debug\System.Net.Http.Primitives.xml
+D:\Dev\Apps\TTXTDL\DNNEW\ImportData\bin\Debug\System.Net.Http.Formatting.xml
+D:\Dev\Apps\TTXTDL\DNNEW\ImportData\bin\Debug\Newtonsoft.Json.xml
+D:\Dev\Apps\TTXTDL\DNNEW\ImportData\obj\Debug\ImportData.csproj.App.config
+D:\Dev\Apps\TTXTDL\DNNEW\ImportData\obj\Debug\ImportData.csprojResolveAssemblyReference.cache
+D:\Dev\Apps\TTXTDL\DNNEW\ImportData\obj\Debug\ImportData.Form1.resources
+D:\Dev\Apps\TTXTDL\DNNEW\ImportData\obj\Debug\ImportData.Properties.Resources.resources
+D:\Dev\Apps\TTXTDL\DNNEW\ImportData\obj\Debug\ImportData.csproj.GenerateResource.Cache
+D:\Dev\Apps\TTXTDL\DNNEW\ImportData\obj\Debug\ImportData.exe
+D:\Dev\Apps\TTXTDL\DNNEW\ImportData\obj\Debug\ImportData.pdb
+D:\Apps\Hội An\DNNEW\ImportData\bin\Debug\ImportData.exe.config
+D:\Apps\Hội An\DNNEW\ImportData\obj\Debug\ImportData.exe
+D:\Apps\Hội An\DNNEW\ImportData\obj\Debug\ImportData.pdb
+D:\Apps\Hội An\DNNEW\ImportData\bin\Debug\SonartezClient.sdf
+D:\Apps\Hội An\DNNEW\ImportData\bin\Debug\ImportData.exe
+D:\Apps\Hội An\DNNEW\ImportData\bin\Debug\ImportData.pdb
+D:\Apps\Hội An\DNNEW\ImportData\bin\Debug\LinqToExcel.dll
+D:\Apps\Hội An\DNNEW\ImportData\bin\Debug\log4net.dll
+D:\Apps\Hội An\DNNEW\ImportData\bin\Debug\Remotion.Data.Linq.dll
+D:\Apps\Hội An\DNNEW\ImportData\bin\Debug\Remotion.dll
+D:\Apps\Hội An\DNNEW\ImportData\bin\Debug\Remotion.Interfaces.dll
+D:\Apps\Hội An\DNNEW\ImportData\bin\Debug\Sonartez.Entities.dll
+D:\Apps\Hội An\DNNEW\ImportData\bin\Debug\System.Net.Http.Extensions.dll
+D:\Apps\Hội An\DNNEW\ImportData\bin\Debug\System.Net.Http.Primitives.dll
+D:\Apps\Hội An\DNNEW\ImportData\bin\Debug\TTXTDL Quang Nam Helpdesk.exe
+D:\Apps\Hội An\DNNEW\ImportData\bin\Debug\MetroFramework.dll
+D:\Apps\Hội An\DNNEW\ImportData\bin\Debug\System.Net.Http.Formatting.dll
+D:\Apps\Hội An\DNNEW\ImportData\bin\Debug\Newtonsoft.Json.dll
+D:\Apps\Hội An\DNNEW\ImportData\bin\Debug\Sonartez.Entities.pdb
+D:\Apps\Hội An\DNNEW\ImportData\bin\Debug\TTXTDL Quang Nam Helpdesk.pdb
+D:\Apps\Hội An\DNNEW\ImportData\bin\Debug\LinqToExcel.xml
+D:\Apps\Hội An\DNNEW\ImportData\bin\Debug\log4net.xml
+D:\Apps\Hội An\DNNEW\ImportData\bin\Debug\System.Net.Http.Extensions.xml
+D:\Apps\Hội An\DNNEW\ImportData\bin\Debug\System.Net.Http.Primitives.xml
+D:\Apps\Hội An\DNNEW\ImportData\bin\Debug\System.Net.Http.Formatting.xml
+D:\Apps\Hội An\DNNEW\ImportData\bin\Debug\Newtonsoft.Json.xml
+D:\Apps\Hội An\DNNEW\ImportData\obj\Debug\ImportData.csproj.App.config
+D:\Apps\Hội An\DNNEW\ImportData\obj\Debug\ImportData.csprojResolveAssemblyReference.cache
+D:\Apps\Hội An\DNNEW\ImportData\obj\Debug\ImportData.Form1.resources
+D:\Apps\Hội An\DNNEW\ImportData\obj\Debug\ImportData.Properties.Resources.resources
+D:\Apps\Hội An\DNNEW\ImportData\obj\Debug\ImportData.csproj.GenerateResource.Cache
